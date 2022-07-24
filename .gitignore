@@ -1,0 +1,10 @@
+/X101-features
+/X152-features
+/m2_annotations
+evaluation/spice/*
+*.pyc
+*.jar
+/saved_transformer_models
+/tensorboard_logs
+/visualization
+/.vscode
