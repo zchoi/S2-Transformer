@@ -95,8 +95,8 @@ Huang, and Rongrong Ji. Rstnet: Captioning with adaptive attention on visual and
 ### Citation
 ```
 @inproceedings{S2,
-  author    = {Pengpeng Zeng and
-               Haonan Zhang and
+  author    = {Pengpeng Zeng* and
+               Haonan Zhang* and
                Jingkuan Song and 
                Lianli Gao},
   title     = {S2 Transformer for Image Captioning},
