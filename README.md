@@ -37,9 +37,8 @@ python -m spacy download en_core_web_md
 ## Data Preparation
 
 * **Annotation**. Download the annotation file [m2_annotations](https://drive.google.com/file/d/12EdMHuwLjHZPAMRJNrt3xSE2AMf7Tz8y/view?usp=sharing) [1]. Extract and put it in the project root directory.
-* **Feature**. Download processed image features [ResNeXt-101](https://stduestceducn-my.sharepoint.com/:f:/g/personal/zhn_std_uestc_edu_cn/EssZY4Xdb0JErCk0A1Yx3vUBaRbXau88scRvYw4r1ZuwPg?e=f2QFGp) and [ResNeXt-152](https://stduestceducn-my.sharepoint.com/:f:/g/personal/zhn_std_uestc_edu_cn/EssZY4Xdb0JErCk0A1Yx3vUBaRbXau88scRvYw4r1ZuwPg?e=f2QFGp) features [2], put it in the project root directory.
+* **Feature**. Download processed image features [ResNeXt-101](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) and [ResNeXt-152](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) features [2] (code `9vtB`), put it in the project root directory.
 <!-- * **Evaluation**. Download the evaluation tools [here](https://pan.baidu.com/s/1xVZO7t8k4H_l3aEyuA-KXQ). Acess code: jcj6. Extarct and put it in the project root directory. -->
-
 
 ## Training
 Run `python train_transformer.py` using the following arguments:
