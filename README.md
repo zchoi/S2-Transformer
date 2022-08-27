@@ -99,7 +99,7 @@ Huang, and Rongrong Ji. Rstnet: Captioning with adaptive attention on visual and
                Lianli Gao},
   title     = {S2 Transformer for Image Captioning},
   booktitle = {IJCAI},
-  % pages     = {1608--1614}
+  pages     = {1608--1614}
   year      = {2022}
 }
 ```
