@@ -49,12 +49,12 @@ if __name__ == '__main__':
     device = torch.device('cuda')
 
     parser = argparse.ArgumentParser(description='Transformer')
-    parser.add_argument('--batch_size', type=int, default=10)
-    parser.add_argument('--workers', type=int, default=4)
+    parser.add_argument('--batch_size', type=int, default=50)
+    parser.add_argument('--workers', type=int, default=12)
     parser.add_argument('--m', type=int, default=40)
 
-    parser.add_argument('--features_path', type=str, default='/home/zhanghaonan/RSTNet-master/X101-features/X101_grid_feats_coco_trainval.hdf5')
-    parser.add_argument('--annotation_folder', type=str, default='/home/zhanghaonan/RSTNet-master/m2_annotations')
+    parser.add_argument('--features_path', type=str, default='./X101-features/X101_grid_feats_coco_trainval.hdf5')
+    parser.add_argument('--annotation_folder', type=str, default='./m2_annotations')
     
     # the path of tested model and vocabulary
     parser.add_argument('--model_path', type=str, default='saved_transformer_models/demo_rl_v5_best_test.pth')

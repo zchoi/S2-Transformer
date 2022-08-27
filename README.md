@@ -36,10 +36,9 @@ python -m spacy download en_core_web_md
 
 ## Data Preparation
 
-* **Annotation**. Download the annotation file [annotation.zip](https://drive.google.com/file/d/1Zc2P3-MIBg3JcHT1qKeYuQt9CnQcY5XJ/view?usp=sharing) [1]. Extract and put it in the project root directory.
-* **Feature**. Download processed image features [ResNeXt-101](https://stduestceducn-my.sharepoint.com/:f:/g/personal/zhn_std_uestc_edu_cn/EssZY4Xdb0JErCk0A1Yx3vUBaRbXau88scRvYw4r1ZuwPg?e=f2QFGp) and [ResNeXt-152](https://stduestceducn-my.sharepoint.com/:f:/g/personal/zhn_std_uestc_edu_cn/EssZY4Xdb0JErCk0A1Yx3vUBaRbXau88scRvYw4r1ZuwPg?e=f2QFGp) features [2], put it in the project root directory.
+* **Annotation**. Download the annotation file [m2_annotations](https://drive.google.com/file/d/12EdMHuwLjHZPAMRJNrt3xSE2AMf7Tz8y/view?usp=sharing) [1]. Extract and put it in the project root directory.
+* **Feature**. Download processed image features [ResNeXt-101](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) and [ResNeXt-152](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) features [2] (code `9vtB`), put it in the project root directory.
 <!-- * **Evaluation**. Download the evaluation tools [here](https://pan.baidu.com/s/1xVZO7t8k4H_l3aEyuA-KXQ). Acess code: jcj6. Extarct and put it in the project root directory. -->
-
 
 ## Training
 Run `python train_transformer.py` using the following arguments:
@@ -83,7 +82,6 @@ We provide pretrained model [here](https://drive.google.com/file/d/1Y133r4Wd9edi
 |   Reproduced Model (ResNext101) 	|   81.2   	| 39.9 	| 29.6 	|   59.1  	|  133.7 	|  23.3|
 
 
-
 ### Online Evaluation
 We also report the performance of our model on the online COCO test server with an ensemble of four S<sup>2</sup> models. The detailed online test code can be obtained in this [repo](https://github.com/zhangxuying1004/RSTNet).
 
@@ -95,8 +93,8 @@ Huang, and Rongrong Ji. Rstnet: Captioning with adaptive attention on visual and
 ### Citation
 ```
 @inproceedings{S2,
-  author    = {Pengpeng Zeng and
-               Haonan Zhang and
+  author    = {Pengpeng Zeng* and
+               Haonan Zhang* and
                Jingkuan Song and 
                Lianli Gao},
   title     = {S2 Transformer for Image Captioning},
