@@ -82,6 +82,7 @@ We provide pretrained model [here](https://drive.google.com/file/d/1Y133r4Wd9edi
 |   Reproduced Model (ResNext101) 	|   81.2   	| 39.9 	| 29.6 	|   59.1  	|  133.7 	|  23.3|
 
 
+
 ### Online Evaluation
 We also report the performance of our model on the online COCO test server with an ensemble of four S<sup>2</sup> models. The detailed online test code can be obtained in this [repo](https://github.com/zhangxuying1004/RSTNet).
 

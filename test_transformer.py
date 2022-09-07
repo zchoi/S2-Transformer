@@ -53,11 +53,11 @@ if __name__ == '__main__':
     parser.add_argument('--workers', type=int, default=4)
     parser.add_argument('--m', type=int, default=40)
 
-    parser.add_argument('--features_path', type=str, default='./X101-features/X101_grid_feats_coco_trainval.hdf5')
+    parser.add_argument('--features_path', type=str, default='./X101_grid_feats_coco_trainval.hdf5')
     parser.add_argument('--annotation_folder', type=str, default='./m2_annotations')
     
-    # the path of tested model and vocabulary  
-    parser.add_argument('--model_path', type=str, default='saved_transformer_models/s2_checkpoint.pth')
+    # the path of tested model and vocabulary
+    parser.add_argument('--model_path', type=str, default='saved_transformer_models/demo_rl_v5_best_test.pth')
     parser.add_argument('--vocab_path', type=str, default='vocab.pkl')
     parser.add_argument('--num_clusters', type=int, default=5)
     args = parser.parse_args()
