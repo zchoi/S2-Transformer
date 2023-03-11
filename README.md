@@ -27,7 +27,7 @@ conda activate m2release
 ```
 
 Then download spacy data by executing the following command:
-```
+```python
 python -m spacy download en_core_web_md
 ```
 
@@ -56,7 +56,7 @@ Run `python train_transformer.py` using the following arguments:
 | `--num_clusters` | Number of pseudo regions |
 
 For example, to train the model, run the following command:
-```
+```python
 python train_transformer.py --exp_name S2 --batch_size 50 --m 40 --head 8 --features_path /path/to/features --num_clusters 5
 ```
 or just run:
