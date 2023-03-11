@@ -92,7 +92,7 @@ We also report the performance of our model on the online COCO test server with 
 [2] Xuying Zhang, Xiaoshuai Sun, Yunpeng Luo, Jiayi Ji, Yiyi Zhou, Yongjian Wu, Feiyue
 Huang, and Rongrong Ji. Rstnet: Captioning with adaptive attention on visual and non-visual words. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 15465–15474, 2021.
 ### Citation
-```
+```bibtex
 @inproceedings{S2,
   author    = {Pengpeng Zeng* and
                Haonan Zhang* and
