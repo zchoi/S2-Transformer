@@ -4,7 +4,7 @@
 [![](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/zchoi/S2-Transformer/blob/main/LICENSE)
 [![](https://img.shields.io/badge/Pytorch-1.7.1-red.svg)](https://pytorch.org/)
 
-This repository contains the official code implementation for the paper [_S<sup>2</sup> Transformer for Image Captioning_ (IJCAI 2022)](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.pdf).
+This repository contains the official code implementation for the paper [_S<sup>2</sup> Transformer for Image Captioning_ (IJCAI 2022)](https://www.ijcai.org/proceedings/2022/0224.pdf).
 
 <p align="center">
   <img src="framework.png" alt="Relationship-Sensitive Transformer" width="850"/>
