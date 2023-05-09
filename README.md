@@ -4,7 +4,7 @@
 [![](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/zchoi/S2-Transformer/blob/main/LICENSE)
 [![](https://img.shields.io/badge/Pytorch-1.7.1-red.svg)](https://pytorch.org/)
 
-> Official code implementation for the paper [**S<sup>2</sup> Transformer for Image Captioning**]([https://arxiv.org/abs/2303.13283](https://www.ijcai.org/proceedings/2022/0224.pdf))<br>
+> Official code implementation for the paper [**S<sup>2</sup> Transformer for Imgae Captioning**](https://www.ijcai.org/proceedings/2022/0224.pdf)<br>
 > Pengpeng Zeng, Haonan Zhang, Jingkuan Song, and Lianli Gao
 
 <p align="center">
