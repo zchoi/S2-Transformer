@@ -1,10 +1,11 @@
-# $\mathcal{S}^2$ Transformer for Image Captioning
+# $\mathcal{S}^2$ Transformer for Image Captioning [IJCAI 2022]
 
 [![](https://img.shields.io/badge/python-3.7.11-orange.svg)](https://www.python.org/)
 [![](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/zchoi/S2-Transformer/blob/main/LICENSE)
 [![](https://img.shields.io/badge/Pytorch-1.7.1-red.svg)](https://pytorch.org/)
 
-This repository contains the official code implementation for the paper [_S<sup>2</sup> Transformer for Image Captioning_ (IJCAI 2022)](https://www.ijcai.org/proceedings/2022/0224.pdf).
+> Official code implementation for the paper [**S<sup>2</sup> Transformer for Image Captioning**]([https://arxiv.org/abs/2303.13283](https://www.ijcai.org/proceedings/2022/0224.pdf))<br>
+> Pengpeng Zeng, Haonan Zhang, Jingkuan Song, and Lianli Gao
 
 <p align="center">
   <img src="framework.png" alt="Relationship-Sensitive Transformer" width="850"/>
