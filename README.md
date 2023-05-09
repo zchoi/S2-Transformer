@@ -1,8 +1,8 @@
 # $\mathcal{S}^2$ Transformer for Image Captioning [IJCAI 2022]
 
-[![](https://img.shields.io/badge/python-3.7.11-orange.svg)](https://www.python.org/)
+<!-- [![](https://img.shields.io/badge/python-3.7.11-orange.svg)](https://www.python.org/)
 [![](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/zchoi/S2-Transformer/blob/main/LICENSE)
-[![](https://img.shields.io/badge/Pytorch-1.7.1-red.svg)](https://pytorch.org/)
+[![](https://img.shields.io/badge/Pytorch-1.7.1-red.svg)](https://pytorch.org/) -->
 
 > Official code implementation for the paper [**S<sup>2</sup> Transformer for Imgae Captioning**](https://www.ijcai.org/proceedings/2022/0224.pdf)<br>
 > Pengpeng Zeng, Haonan Zhang, Jingkuan Song, and Lianli Gao
