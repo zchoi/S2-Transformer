@@ -38,7 +38,7 @@ python -m spacy download en_core_web_md
 ## Data Preparation
 
 * **Annotation**. Download the annotation file [m2_annotations](https://drive.google.com/file/d/12EdMHuwLjHZPAMRJNrt3xSE2AMf7Tz8y/view?usp=sharing) [1]. Extract and put it in the project root directory.
-* **Feature**. Download processed image features [ResNeXt-101](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) and [ResNeXt-152](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) features [2] (code `9vtB`), put it in the project root directory.
+* **Feature**. Download processed image features [ResNeXt-101](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) and [ResNeXt-152](https://pan.baidu.com/s/1avz9zaQ7c36XfVFK3ZZZ5w) features [2] (code `9vtB`), put it in the project root directory.  **Update:** Image feature on [OneDrive](https://1drv.ms/f/s!Am8OAR5-SGckhdBjE1v6GXpNp4jaTw?e=kgTLn3)
 <!-- * **Evaluation**. Download the evaluation tools [here](https://pan.baidu.com/s/1xVZO7t8k4H_l3aEyuA-KXQ). Acess code: jcj6. Extarct and put it in the project root directory. -->
 
 ## Training
