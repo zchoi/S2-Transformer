@@ -1,4 +1,4 @@
-# $\mathcal{S}^2$ Transformer for Image Captioning [IJCAI 2022]
+# S<sup>2</sup> Transformer for Image Captioning [IJCAI 2022]
 
 <!-- [![](https://img.shields.io/badge/python-3.7.11-orange.svg)](https://www.python.org/)
 [![](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/zchoi/S2-Transformer/blob/main/LICENSE)
