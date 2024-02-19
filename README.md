@@ -77,9 +77,9 @@ python test_transformer.py --batch_size 10 --features_path /path/to/features --m
 ```
   
 > [!TIP]
-> We have removed the ```SPICE``` evaluation metric during training because it is time-cost. You can add it when evaluate the model: download this [file](https://drive.google.com/file/d/1vEVsbEFjDstmSvoWhu4UdKaJjX1jJXpR/view?usp=sharing) and put it in ```/path/to/evaluation/```, then uncomment codes in [__init__.py](https://github.com/zchoi/S2-Transformer/blob/master/evaluation/__init__.py).
+> We have removed the ```SPICE``` evaluation metric during training because it is time-cost. You can add it when evaluating the model: download this [file](https://drive.google.com/file/d/1vEVsbEFjDstmSvoWhu4UdKaJjX1jJXpR/view?usp=sharing) and put it in ```/path/to/evaluation/```, then uncomment codes in [__init__.py](https://github.com/zchoi/S2-Transformer/blob/master/evaluation/__init__.py).
 
-We provide pretrained model [here](https://drive.google.com/file/d/1Y133r4Wd9ediS1Jqlwc1qtL15vCK_Mik/view?usp=sharing), you will get following results (second row) by evaluating the pretrained model:
+We provide checkpoint [here](https://drive.google.com/file/d/1Y133r4Wd9ediS1Jqlwc1qtL15vCK_Mik/view?usp=sharing), you will get the following results (second row):
 
 | Model 	| B@1 	| B@4 	|        M   	| R 	| C 	| S |
 |:---------:	|:-------:	|:-:	|:---------------:	|:--------------------------:	|:-------:	| :-------:|
